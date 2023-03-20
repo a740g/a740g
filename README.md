@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on [QB64-PE](https://github.com/QB64-Phoenix-Edition/QB64pe), retro games and apps.
 - 📫 How to reach me: https://github.com/a740g
 
-# A740G's GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=a740g&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a740g&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

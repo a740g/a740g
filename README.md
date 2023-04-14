@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things retro
 - 🌱 I’m currently learning C++17
 - 💞️ I’m looking to collaborate on [QB64-PE](https://github.com/QB64-Phoenix-Edition/QB64pe), retro games & apps
-- 📫 How to reach me: https://github.com/a740g
+- 📫 How to reach me: https://github.com/a740g/a740g
 
 [![](https://github-readme-stats.vercel.app/api?username=a740g&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 

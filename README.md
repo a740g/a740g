@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Gomes
 - 👀 I’m interested in all things retro
-- 🌱 I’m currently learning C++17
+- 🌱 I’m currently learning C++20
 - 💞️ I’m looking to collaborate on [QB64-PE](https://github.com/QB64-Phoenix-Edition/QB64pe), retro games & apps
 - 📫 How to reach me: v_2samg->(at)->hotmail->(dot)->com
 
